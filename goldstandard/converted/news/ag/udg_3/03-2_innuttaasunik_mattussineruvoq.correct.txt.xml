@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Innuttaasunik mattussineruvoq</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Ludvig" lastname="Siegstad" sex="m" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG03_2008 03-2. Innuttaasunik mattussineruvoq. <errormorphsyn correct="Timmisartuinnarmik angallassilerneq Atuisartut Siunnersuisoqatigiivisa siulittaasuannit mattussinerunerarneqarpoq" errorinfo="x">Timmisartuinnarmik angallassilerneq Atuisartut Siunnersuisoqatigiivisa siulittaasuannit mattussineruneraavoq</errormorphsyn>. Allattoq: Ludvig Siegstad. Nuuk. <errormorphsyn correct="Arctic Umiaq Linep sinersortaataataa Sarfaq Ittuk ukiuunerani angalajunnaarpoq" errorinfo="typo">Arctic Umiaq Linep sinersortaataata Sarfaq Ittuk ukiuunerani angalajunnaarpoq</errormorphsyn>. Taamaattumik Sisimiuniit Qaqortumut tassa siumuinnaq angalaniaruit 4.500 koruuninik akisunerusumik akiliisariaqassaatit, sinersortaammut ilaanissarigaluannut naleqqiullugu. Qaqortumit ullut marluk qaangiutsinnagit Sisimiuliassaguit bilitsimik qorsummik taaguutilimmut siumuinnaq 6.479 koruuninik akiliisariaqarputit, angalatitsivimmit taama akissuteqartoqarpoq. Angallasseriaaseq ataasiinnaq maannakkut atuutilerpoq, angalaniartut timmisartuinnarmik angalasussanngormata, Sarfaq Ittuk marsip 9-ata tungaanut angalajunnaarmat. Sisimiuniit Narsamut tamatuma kingorna aatsaat angallassileqqissalluni. Taamaalilluni nunatta qeqqani kujataanilu najugaqartut piffissami tassani timmisartuinnarmik angalasalissapput. Akisunerusoq Timmisartumut sinersortaammullu ilaanermut bilitsit akii assigiinngitsorujussuupput. Sinersortaammut Sisimiunit Qaqortumut akikinnermut ilaasoq 4.504 koruuninik sipaaruteqarsinnaagaluarpoq, sinersortaammimi akikinneq 1.975 koruuneqarmat. SIK-mut ilaasortamut bilitsit akisungaarmata tassaqaana ilaasortatta piffissami tamatumani ilaquttatik tikeraaraat, SIK-p siulittaasua Jess G. Berthelsen oqarpoq. Atuisartut Sinnersuisoqatigiivisa siulittaasuat Nikolaj Ludvigsen isumaqarpoq timmisartuinnarmik angallassilerneq isumaqartoq innuttaasunik mattussineq, innuttaasut pissakinnerit bilitsinut taama akisutigisunut akissaqanngimmata. Tapiissuteqarlit Jess G. Berthelsen aamma Nikolaj Ludvigsen isumaqarput angallannermut amerlanerusunik tapiissuteqartoqartariaqartoq, <errormorphsyn correct="oqaatigisinnaanaguli qanorpiaq aaqqiisoqartoqarsinnaanera" errorinfo="instr-abs">oqaatigisinnaanaguli qanorpiaq aaqqiisoqartoqarsinnaaneranik</errormorphsyn>: Innuttaasut inooqataaffigisinnaasaannik aaqqiisoqartariaqarpoq. Naammaginanngilarmi akissaqarluartuinnaat angalasalissappata. Inatsisartuni ilaasortaq Kristian Jeremiassen <errorort correct="akikilliliisoqarnissaanik" errorinfo="der,htr">akikilliisoqarnissaanik</errorort> kissaateqarpoq: <errormorphsyn correct="Inuiaqatigiiusugut timmisartuussinermut akigitinneqartunut naammagittarpallaaleqaagut, taamaattumik akikillisaasoqarnissaa politikikkut oqaloqatigiissutigisariaqarparput" errorinfo="instr-abs">Inuiaqatigiiusugut timmisartuussinermut akigitinneqartunut naammagittarpallaaleqaagut, taamaattumik akikillisaasoqarnissaannik politikikkut oqaloqatigiissutigisariaqarparput</errormorphsyn>, taamaalilluta innuttaasut akissakinnerit angalanissaannut periarfississagaluarpavut, Atassut sinnerlugu inatsisartuni ilaasortaq Kristian Jeremiassen oqarpoq: Naammaginanngilarmi inuit amerlaqisut timmisartornissaminnut aatsaat katerseqqaarujussuartariaqarnerat. Bilitsit akii affaannanngortinneqarpata angalasut <errorortreal correct="amerlaninngussagaluarput" errorinfo="typo,i-a">amerlininngussagaluarput</errorortreal>, Kristian Jeremiassen oqarpoq. Ilaasunik angallassinermut 2008-mut tapiissutit 119 millioni koruuniupput. Ataguli innuttaasut naammaginartumik angalanerminnut akissaqalersinnaanissaat anguniarlugu tapiissutigineqartartut ilaneqarnissaannik oqallitta, Kristian Jeremiassen oqarpoq. Bilitsi qorsuk akisunerpaajuvoq. Sisimiut Qaqortullu akornanni timmisartorniaraanni takuss bilitsi 2.959 koruuneqarpoq, aappaluttorlu 4.084 koruuneqarluni. Sinersortaammili akikinneq 1.975 koruuneqaannarpoq.</p>
+  </body>
+</document>

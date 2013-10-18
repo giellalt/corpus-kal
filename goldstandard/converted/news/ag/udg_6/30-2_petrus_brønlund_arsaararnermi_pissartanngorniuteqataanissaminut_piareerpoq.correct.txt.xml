@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Petrus Brønlund arsaararnermi pissartanngorniuteqataanissaminut piareerpoq</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="J" lastname="J" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG06_2008 30-2. Petrus Brønlund arsaararnermi pissartanngorniuteqataanissaminut piareerpoq. Nuuk (JJ) . Nerrivimmi arsaararnermi unammisartoq Petrus Brønlund, siorna nunatsinni pissartanngorniunnerni <errormorphsyn correct="nukkassaatitorsimasutut" errorinfo="x">nukassaatitorsimasutut</errormorphsyn> paasineqartoq, maannakkut nunatsinni pissartanngorniunnerni ujaminnanniulluni unammeqataasinnaalerpoq. Nerrivimmi arsaararnermik unammisartoq piginnaaneqarluartoq Kalaallit Nunaanni Timersornermik Kattuffimmit qaammatini pingasuni unammeqataasinnaajunnaarsinneqarpoq, nerrivimmili arsaararnermik unammisartut kattuffiannit tamanna ukiunut <errorort correct="marlunnut" errorinfo="typo,i-u">marlunnit</errorort> sivitsorneqarpoq. Pillaaneq nalinginnaasuunngitsumik sakkortuujuvoq, tassami hashitorneq piginnaaneqartitsinerulersinnaanngimmat. Tamanna Kalaallit Nunaanni Nerrivimmi Arsaarartartut Kattuffianit maannakkut nassuerutigineqarpoq, Petrus Brønlundimillu pillaaneq ingerlaannaq atuutilersumik atorunnaarsinneqarpoq, taamaalilluni Petrus Brønlund qaammatini qulini unammeqataasaqattaanngitsoorpoq. Tamatuma kingunerisaanik Petrus Brønlund sungiusaqqittariaqarpoq poorskikkunnilu Paamiuni nunatsinni pissartanngorniunnernut peqataasinnaanngorpoq. Tamanna ilutigalugu nuna tamakkerlugu sungiusaasoq, Karl Peter Olsvig, ingerlaannaq atuutilersumik nuna tamakkerlugu sungiusaasuunerminit tunuarpoq. Taamatut sungiusaasuunissaminut piffissaqanngilaq, taamaalillunilu qanittukkut Canadami Yellowknifemi Arctic Winter Gameseqarnissaanut kattuffik nuna tamakkerlugu sungiusaasueruppoq.</p>
+  </body>
+</document>

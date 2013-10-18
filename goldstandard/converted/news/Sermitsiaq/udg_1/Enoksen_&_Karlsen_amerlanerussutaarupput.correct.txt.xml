@@ -1,0 +1,45 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Enoksen &amp; Karlsen amerlanerussutaarupput</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Erik" lastname="Holmsgaard" sex="m" born="" nationality=""/>
+    </author>
+    <translator>
+      <person firstname="Nuka" lastname="Jørgensen" sex="unknown" born="" nationality=""/>
+    </translator>
+    <translated_from xml:lang="dan"/>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!Sermitsiaq02_2008 03-1. Enoksen &amp; Karlsen amerlanerussutaarupput.</p>
+    <p>Ullumikkut qinersisoqartuuppat Siumumut ajorluinnassagaluarpoq. Qinersisartunik isumasiuinerup nutaap tamanna takutippaa. Siumup ilaasortaatitani marluk annaassagaluarpai, naalakkersuisooqatigiillu Inatsisartuni amerlanerussutaarutissagaluarput.</p>
+    <p>All. Erik Holmsgaard Nutserisoq Nuka Jørgensen.</p>
+    <p>Ullumikkut qinersisoqartuuppat naalakkersuisooqatigiit Siumut Atassutillu amerlanerussuteqarnertik annaassagaluarpaat. Tamanna HS Analysep Sermitsiaq suleqatigalugu qinersisartunik isumasiuinerani takuneqarsinnaavoq. Qinersisartunik isumasiuineq, 2007imi oktobarimiit decembarimut ingerlanneqartoq, malillugu Siumup Inatsisartuni ilaasortaatitai quliniit arfineq-pingasunut ikileriassapput, naalakkersuisooqataata Atassutip ilaasortaatitani arfinillit attatiinnassagai. Taamaasilluni Siumup Atassutillu Inatsisartuni 31-nik ilaasortalinni amerlanerussuteqarnertik annaassavaat. Illua-tungiliuttut amerlanerussuteqalissapput. Siumup kinguariarneratigut partit illua-tungiliuttut angisuut marluk Demokratit Inuit Ataqatigiillu siuariassapput. Partit marluullutik inatsisartuni ilaasortaatitaat arfineq-marlunnit arfineq-pingasunut amerleriassapput siuariarneq qaqutigoortumik naalakkersuisooqatigiinnik amerlanerussuteqartunik pilersitsisussaq, partit taakkua marluk politikikkut suleqatigiinnermi imminnut qanillattorsinnaappata. Kattusseqatigiit Inatsisartuni ilaasortaatitartik ataaseq attatiinnassavaat.</p>
+    <p>Siumut.</p>
+    <p>Qinersisartunik isumasiuinerup <errormorphsyn correct="takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluartoq" errorinfo="x">takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluarpoq</errormorphsyn>. Kinguariarnerup kinguneriinnassanngilaa partip ilaasortaatitaminik marlunnik annaasaqarnera, tamanna peqatigalugu partip oqaluttuarisaanikkut nunami partiitut annersaanini annaangajassagaluarpaa. Tamatuma saniatigut misissuinerup takutippaa Siumup qinersisartut inuusuttut piuminaatsikkai. <errormorphsyn correct="Partii qinersisartunit utoqqaanerusunit tapersersorneqarpoq" errorinfo="x">Partii qinersisartunik utoqqaanerusunik tapersersorneqarpoq</errormorphsyn>.</p>
+    <p>Atassut.</p>
+    <p>Ullumikkut qinersisoqartuuppat isumasiuineq malillugu Atassutip taasisut 19,3 procentii pissarsiarissavai. <errorort correct="2005-imi" errorinfo="num,0-hyph">2005imi</errorort> novembarimi qinersinermi partip taasisuisa amerlaqataanik. Atassutip qinersisartunik nutaanik Siumut arsaalaassavaa Demokratinullu annaasaqalaassalluni. Siusinnerusukkut misissuisarnertut Atassutip qinersisartuisa ilarujussui 50-it sinnerlugit ukioqarput. Piffissaq ungasinnerusoq isigalugu tamanna partimut ajornartorsiortitsissaaq, inuusuttuunerusuni nutaanik tapersersortitaanngikkuni. Ellen Christoffersenip politikimit tunuarneratigut ajornartorsiutit minnerulinngillat.</p>
+    <p>Demokratit.</p>
+    <p>Misissuineq malillugu Demokratit taasisut 25,1 procentii pissarsiarissavai 2,1 procentinik siuariarnikkut partip ilaasortaatitai ataatsimik amerlissapput. Misissuinermi nalorninartoqarneq 2,5 procentpointit missaanniimmat, partillu pingasut tapersersortaat amerlaqatigiipajaartorujussuummata, Demokratit ullumikkut partiini annersanngorsinnaavoq. Demokratit pingaartumik qinersisartunit 40-t inorlugit ukiulinnit tapersersorneqarput, partiilu qinersisartunik Kalaallit Nunaata avataani inunngorsimasunik qinersisartoqarluarpoq. Innuttaasut tamakkua 60 procentii sinnerlugit partimik qinersisartuupput.</p>
+    <p>Inuit Ataqatigiit.</p>
+    <p>Inuit Ataqatigiit 1,8 procentpointinik siuariassapput. Tamanna naammappoq partip ilaasortaatitaasa arfineq-marlunnit arfineq-pingasunut amerleriarnissaannut. IA pisarnertut inuusunnerusunit tapersersorteqarluarpoq, partiili ullumikkut ukioqqortoqatigiinnit tamanit tapersersorteqarpoq. Tamatuma saniatigut Inuit Ataqatigiit Demokratit saniatigut partiini kisiartaavoq qinersisartunik Kalaallit Nunaata avataani inunngorsimasunik tapersersorneqartoq.</p>
+    <p>Kattusseqatigiit.</p>
+    <p>Kattusseqatigiit kinguarialaassapput, Inatsisartunili ilaasortaatitani ataaseq attatiinnassallugu. Ilaasortaatitarli taanna Aalisartut Piniartut <errorort correct="Partiannit" errorinfo="typo,cap">partiannit</errorort> ulorianartorsiortinneqarpoq, partii taanna pingaartumik Ilulissani inissisimalluarmat, Kattusseqatigiit aamma nukittuujuffianni.</p>
+    <p>Aalisartut Piniartut Partiat.</p>
+    <p>Partii nutaaq Inatsisartuni ilaasortaatitaqalernissaminut suli naammattunik tapersersorteqanngilaq, tapersersortaali amerlerialaarpata tamanna piviusunngorsinnaavoq. Partii manna tikillugu illoqarfinni ataasiakkaani taamaallaat tapersersorteqarpoq, tamakkunanilu pingaartumik Siumup qinersisartuinik arsaarinnissalluni.</p>
+    <p>
+      <errorlang correct="url">erik@sermitsiaq.gl.</errorlang>
+    </p>
+  </body>
+</document>

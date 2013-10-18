@@ -1,0 +1,29 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Reagan kingumut</title>
+    <genre code="news"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG03_2008 12-2. Reagan kingumut. Island. Amerikami præsidentiusimasoq toqoreersoq Ronald Reagan, filmiliaritittartooqqaarsimasoq, filmimi isiginnaarneqarsinnaaqqilissagunarpoq. Ilitsersuisartoq Tuluit Nunaanni inunngorsimasoq <errorlang correct="eng">Ridley Scott</errorlang> Reaganip aamma Mikhail Gorbatjovip, Sovjetimi aqutsisuusimasup kingulliup, akornanni Reykjavikimi <errorort correct="1986-imi" errorinfo="num,0-hyph">1986imi</errorort> ataatsimeeqatigiinneq tunngavigalugu filmiliornissamik isumaliuteqarpoq. Taama Islandimi aviisi Frettabladid marlunngornermi nalunaarpoq. Ataatsimeeqatigiinnermi Sorsunnerup Nillertup nalaani pisumi atominik sakkussiarsuarnik pingaarutilimmik ikililerinissaq Reaganimit Gorbatjovimillu oqaluuserineqarpoq. <errorlang correct="eng">Ridley Scott</errorlang> filmilioqqammerpoq qulequtalimmik <errorlang correct="eng">»American Gangster«</errorlang> filmillu allat soorlu <errorlang correct="eng">»Gladiator«, »Alien«</errorlang> aamma <errorlang correct="eng">»Blade Runner«</errorlang> aamma suliarisimallugit.</p>
+  </body>
+</document>

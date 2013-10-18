@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Unnukkut kulturisiornerit takusarneqarluartut</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="L" lastname="P" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG06_2008 32-3. Unnukkut kulturisiornerit takusarneqarluartut. <errorort correct="Sinerissamit" errorinfo="infl,m,2-1">Sinerissammit</errorort> (LP). Arfininngormat unnukkut sineriammi illoqarfinni amerlanerni nunaqarfinnilu arlalinni unnukkut kulturisiortoqarpoq. Sumiiffippassuarni unnukkut kulturisiornerit takusarneqarluarput soorlu maani Aasiaat Katersugaasiviani, illoqarfimmilu innuttaasut ilaasa piffissaq atorluarlugu illoqarfimmit oqaluttuarisaanermit assit takuaat takoqqillugilluunniit. Nuummi Ilimmarfimmi init nutaat <errorort correct="aaqqissuuteqqammerneqarsimasut" errorinfo="typo,q,1-2">aaqqissuuteqammerneqarsimasut</errorort> atuakkanillu atorniartarfik nutaaq takusarluarneqarput. Aasiaat, Ilulissat, Nuuk, Kangaatsiaq, Maniitsoq, Nanortalik, Narsaq, Nuuk, Paamiut, Qasigiannguit, Qaqortoq, Qeqertarsuaq, Sisimiut, Ukkusissat, Upernavik, Qaarsut, Ikerasak aamma Kangersuatsiaq unnukkut kulturisiornermi peqataapput.</p>
+  </body>
+</document>

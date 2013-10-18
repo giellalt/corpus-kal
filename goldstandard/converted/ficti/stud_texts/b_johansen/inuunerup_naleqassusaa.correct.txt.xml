@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Inuunerup naleqassusaa</title>
+    <genre code="ficti"/>
+    <author>
+      <person firstname="Arnaq" lastname="B. Johansen" sex="f" born="" nationality=""/>
+    </author>
+    <place>Aasiaat</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>Inuunerup naleqassusaa Inuunerup naleqassusaa qanoruna paasisarialik? Ullutsinni meeqqat iluamik killilersorneqarpat?</p>
+    <p>Allattoq: Arnaq B. Johansen</p>
+    <p>Inuuneruna imaannaanngitsoq! Inuunerput tunissutaavoq tamani akisunerpaaq atorluarniagassarput. Inoqarpoq inuunermik atorluaaniartunik, aammali inoqarpoq atorluaaniarpallaanngitsunik. Inuunerup naleqassusaa <errorort correct="naalungiarsuunermiit" errorinfo="infl,sub">naalungiarsuunermiik</errorort> <errorort correct="aallarnerneqartarpoq" errorinfo="typo,0-r">aallarneneqartarpoq</errorort>. Meeqqap naalungiarsuuneraniit angajoqqaajusut akisussaaffigivaat naalungiarsuk asanninnermik toqqissisimanermillu tunissallugu. Naalungiarsuk iliornikkut paasitillugu asaneqartoq toqqissisimasumiittorlu. Naalungiarsuup meeraanera, inuusuttuaraanera inuusuttuuneralu tamaat angajoqqaajusut akisussaaffigivaat meeqqap inuunera asanninnermik killilersuinermillu tuniorassallugu. Piareersimasariaqarput arlaannik sumilluunniit pisoqarnissaanut, inuunerup ingerlanera nalunartoqartuaannarmat. Angajoqqaat meeqqap atuarfimmi sunngiffimminilu sammisaanik tapersersuinissaat tatiginninnissaallu pingaartorujussuuvoq <errormorphsyn correct="piumagunikku meeqqamik ajunngitsumik inuunissaa" errorinfo="x">piumagunikku meerartik ajunngitsumik inuunissaa</errormorphsyn>, taamaalilluni meeraq inuunerup naleqassusaanik paasinnissinnaaqqullugu.</p>
+    <p>Angajoqqaaqarpoq illuinnarsiortumik perorsaasunik naak isumaqaraluarlutik tamakkiisumik perorsaallutik. Meeraq asallugu tapersersortarpaat tatigalugulu, kisiannili puigorneqakkajuttarpoq qaqugukkut meeraq killilerneqassasoq. Amerlanertigut meeqqap inuunerup naleqassusaa nalulertarpaa peroriartornermini killissaq sumut killinnersoq <errorort correct="ilikkanngitsoornikuugamiuk" errorinfo="dial,tt-ts">ilikkanngittoornikuugamiuk</errorort> imaluunniit <errorort correct="paasinngitsoornikuugamiuk" errorinfo="dial,tt-ts">paasinngittoornikuugamiuk</errorort>. Killissaq ilikkaannarneqarsinnaanngilaq, ilikkaraanni killissaq paasiniarneqartarpoq. Paasigaannilu siunissami <errorort correct="pinngitsoorani" errorinfo="dial,tt-ts">pinngittoorani</errorort> meeqqamut <errorort correct="sunniuteqassaaq" errorinfo="dial,ssa">sunniuteqassooq</errorort>. <errorort correct="Ilikkassavaa" errorinfo="dial,ssa">Ilikkassuaa</errorort> nammineq inuttut sumut killissinnaanerluni aammattaarlumi suliffittaaruni killissaq sumut killeqarnersoq qaqugukkullu killeq qaangerneqartarnersoq.</p>
+    <p>Ullumikkut meeqqat attattorujussuuaat imminnut qinngasaarunneq. Tamatumunnga pissutaavoq meeqqap killissani qaqugukkut qaangernerlugu qaanginnginnerluguluunniit nalusaramiuk, taamaattumillu meeraqatiminut allanut qinngasaarilersinnaalluni. Taassuma takutippaa meeqqap inoqatiminut ataqqinninnginnera, taamalu aamma inuunerup naleqassusia nalullugu sunaasoq. Inuunerup naleqassusaa naalungiaanermiilli ilikkagassaavoq, angajoqqaajusut tamanna nalunngittariaqaraluarpaat.</p>
+  </body>
+</document>

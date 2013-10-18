@@ -1,0 +1,29 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Air Greenlandimut allakkat ammasut</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Flemming" lastname="Vestergaard-Jensen" sex="m" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>Sermitsiaq</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!Sermitsiaq02_2008 35-1. Air Greenlandimut allakkat ammasut. All. Flemming Vestergaaard-Jensen, Fanø. Timmisartut aqqutaat Billund-Vagar (Savalimmiut) ukiuni arlalinni atuutereersimalerpoq. Taamatullu aamma Billundip Reykjavikillu akornanni <errorort correct="aqquteqalernikuugunarpoq" errorinfo="der,r-0">aqquteqarlernikuugunarpoq</errorort>. Kangerlussuarmiit Fyniliartussat Jyllndiliartussalluunniit pisariusumik (akitsorsaataasumillu) Kastrupikkoortarunnaarnissaat kisimi amigaataalerpoq. Uagutsinnut Jyllandimiit Kastrupikkoortartunut aqqut taanna aamma pisariullunilu akisuvoq! Ungasissutsillu eqqarsaatigigaanni aamma Billund Københavnilu ungaseqatigiiginnaasarunarput. Takusinnaareerpara Københavnermiunik naammagittaalliortoqarumaartoq, Kalaallit Nunaliassatillutik Jyllandiliaqqaartassagunik. Immaqali uffa iluaqutissartaqarsinnaagaluartoq Imarpik qulaallugu timmisartut »nunaviup« Kastrupillu akornannut mittarsinnaagaluarpata. Tamanna Air Greenlandip isumaliutigisinnaannginnerlugu?.</p>
+  </body>
+</document>

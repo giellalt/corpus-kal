@@ -1,0 +1,36 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Politiker nuimasoq kinguaassiuutinut suliassami</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Irene" lastname="Jepson" sex="f" born="" nationality=""/>
+    </author>
+    <translator>
+      <person firstname="Nuka" lastname="Jørgensen" sex="unknown" born="" nationality=""/>
+    </translator>
+    <translated_from xml:lang="dan"/>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!Sermitsiaq02_2008 06-1.</p>
+    <p>Politiker nuimasoq kinguaassiuutinut suliassami.</p>
+    <p>Politiker nuimasoq pisortarlu kinguaassiuutitigut kanngunarsaasutut politiinut nalunaarutigineqarput.</p>
+    <p>All.: Irene Jepson Nutserisoq: Nuka Jørgensen.</p>
+    <p>Arnap Inatsisartut Allattoqarfianni atorfillip inuit marluk kinguaassiuutitigut kanngunarsaasutut unnerluutigai. Angutip nalunaarutigineqartup aappaa politikeriuvoq nuimasoq, aappaalu suliffeqarfimmi anginerusumi pisortaalluni.</p>
+    <p>Naapertuilluanngitsumik iliornerit pisimapput 2007-imi upernaakkut politikerip nuimasup angerlarsimaffiani, sulianut tunngasunik ataatsimiinnermi. Paasisaqarfiit arlallit naapertorlugit arnaq, Inatsisartut Allattoqarfianni atorfilik, qinnuigineqarsimavoq politikerip nuimasup angerlarsimaffianukaqqullugu, inuit allat peqatigalugit ataatsimiinnissanik aaqqissuussisoqassammat. Unnuup ingerlanerani arnaq perusuersartarfiliarpoq, politikerillu nuimasup malillugu kinguaassiuutitigut kanngunarsarsimavaa. Kingorna pulaartup allap arnaq aamma kanngunarsarsimavaa.</p>
+    <p>Arnaq tupattorujussuuvoq aallaqqaammullu <errormorphsyn correct="kanngunartuliornerit nalunaarutiginissaat" errorinfo="x">kanngunartuliornerit nalunaarutiginissaa</errormorphsyn> nangaaffigisimallugu. Piffissami sivisuumi isumalioreerluni aalajangerpoq angutit taakkua marluk nalunaarutiginiarlugit. Arnap <errorort correct="naapertuilluanngitsuliorfigineqarnini" errorinfo="der,0-tsu">naapertuilluanngiliorfigineqarnini</errorort> imatut attortiffigisimatigaa arlaleriarluni Rigshospitalip pinngitsaalineqartunut Centeriani katsorsartinneqartariaqarluni. Paasisaqarfiit arlallit naapertorlugit arnap naapertuilluanngitsuliornerit Nuummi Politiinut nalunaarutigai, politiilli paasiniaaneq unitsissimavaat isumaqaramik pisimasoq suliassartaqanngitsoq. Paasisaqarfiilli tutsuiginartut naapertorlugit politiit aalajangernerat arnap naammagisimanngilaa taamaattumillu Naalagaaffiup Eqqartuussissuserisuanut maalaaruteqarsimalluni. Politimesterip tullia Morten Nielsen Sermitsiap oqaaseqartinniarsimagaluarpaa. Paasisaqarfiit <errorort correct="tutsuiginartut" errorinfo="orto,glides,v,1-0">tutsuviginartut</errorort> malillugit suliassaq unitsissimavarsi isumaqarassi suliassaq kinguneqarnavianngitsoq. Tamanna eqqorpa? Oqaaseqarumanngilanga. Qaqugukkut suliassallu suut politiit Naalagaaffiup Eqqartuussissuserisuanut tunniuttarpaat? Suliassap Naalagaaffiup Eqqartuussissuserisuanut maanngaanniit ingerlateqqinneqarneranut tunngavissarpassuusinnaapput. Taamaasiortarpugut pineqaatissiinerit allanngortinneqarnerini tamani, innuttaasutut pisinnaatitaaffinnik arsaarinninnerni kiisalu suliassani pinerluuteqarsimanermi taarsiivigineqaqqusinermi aammalu aalajangiinitsinnik maalaaruteqarnerni, Morten Nielsen oqarpoq.</p>
+    <p>
+      <errorlang correct="url">irene@sermitsiaq.gl.</errorlang>
+    </p>
+  </body>
+</document>

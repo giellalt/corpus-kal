@@ -1,0 +1,31 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Helsingforsimi isumaqatigiissut Julianep nutarterniarpaa</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Erik" lastname="Holmsgaard" sex="m" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="dan"/>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!Sermitsiaq02_2008 13-1. Helsingforsimi isumaqatigiissut Julianep nutarterniarpaa.</p>
+    <p>Helsingforsimi isumaqatigiissutip iluarsaannissaa nutarternissaalu sooq Norgep, Sverigep Finlandillu akerleraat? Aamma sooq periutsit Ålandimik, Kalaallit Nunaannik Savalimmiunillu pisinnaatitsisut, Ålandip, Kalaallit Nunaata Savalimmiullu namminneq inatsisitigut pisinnaatitaaffigisai naalakkersuisut assigiinngitsut akuersaarumanngilaat? Apeqqutit tamakkua Norgemi, Sverigemi Finlandimilu nunani avannarlerni suleqatigiinnermut ministerit qaammat una akissuteqarfigissavaat. Apeqqutinik tamakkuninnga apeqqutiginnittuupput inatsisartunut folketingimullu ilaasortaq Juliane Henningsen aamma Islandip inatsisartuini ilaasortaq Kolbrun Halldorsdottir. Inatsisartunut ilaasortat taakkua marluk apeqqutit naalakkersuisunut pingasunut taakkununnga saqqummiuppaat, uummaarissumik oqallisigineqareersorlu Savalimmiut, Kalaallit Nunaata Ålandillu nunani avannarlerni suleqatigiinnermi inissisimanerat qanoq isilluni nukittorsarneqarsinnaanersoq. Helsingforsimi isumaqatigiissutip nutarterneqarnissaa aamma 2007-imi ukiakkut Nordisk Rådip Oslomi ataatsimiinnerani, oqallinnermili tamatumani Norgemi, Sverigemi Finlandimilu nunani avannarlerni suleqatigiinnermut ministerit mianersortorujussuusimapput. Imatut mianersortigalutik, Kolbrun Halldorsdottirip tamakkununnga apeqqutai akissuteqarfiginngivillugit. Maanna Kolbrun Halldorsdottirip aamma Juliane Henningsenip suliassaq qaqileqqippaat apeqqutit taakkua marluk Norgemi, Sverigemi Finlandimilu naalakkersuisunut apeqqutigalugit. Helsingforsimi isumaqatigiissummiimmat avannarliit Nordisk Rådimi aamma Nordisk Ministerrådimi suleqatigiinnerannut tunngaviuvoq. Ålandip, Savalimmiut Kalaallillu Nunaata kissaatigaat isumaqatigiissut nutarterneqassasoq, taamaasilluni tassuuna aamma nunat taakkua pingasut namminersulernissaat akuerineqarluni. Piumasaqaat tamanna Islandip Danmarkillu taperserpaat, Norgeli, Sverigelu Finlandilu akerliullutik, qularnanngitsumik pissutigalugu saaminut ikinnerussuteqartunut pissutsit qulaajarneqarsimanngitsut pissutigalugit. Paasisaqarfik: <errorlang correct="dan">»Norden i Dag«</errorlang></p>
+    <p>
+      <errorlang correct="url">erik@sermitsiaq.gl.</errorlang>
+    </p>
+  </body>
+</document>

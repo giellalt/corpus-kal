@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Pissakinnerusunut aningaasanik aallerneq akilersinnaava?</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Ane" lastname="Egede Mathæussen" sex="f" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG03_2008 20-1. Pissakinnerusunut aningaasanik aallerneq akilersinnaava?. Naalakkersuisunut allakkat ammasut. Allattoq: Ane Egede Mathæussen, Nuummi kommunalbestyrelsimi ilaasortaq. Tusakkat iluarinanngingaarmata pisariaqarsorivara Nuummi Kommunalbestyrelsimi ilaasortatut allagaqassallunga, inigisamut akitsueqqammeriarlusi aamma suli januarimi akitsueqqinniarnersi pissakinnerusut eqqoqqillugit akilersinnaava? Isumaqarpunga akilersinnaanngilluinnartoq tassami pissakinnerusut sutigut tamatigut eqqugaajuaannarput tamannalu taamaatittariaqarsoraara, uanga <errorort correct="ukiorpaalunngulersuni" errorinfo="typo,n,1-2">ukiorpaalungulersuni</errorort> isumaginninnermut tunngasunik suliaqarninni takusinnaasara aana; pissakinnerusut taamatut eqqorneqartarnerat inuuniarnerannut ilungersunareeqisumut suli erloqinarninngortarpoq akissaqarniarnerat eqqarsaatigalugu, ingammik angajoqqaanut kisermaanut. Soorunalumi aamma angajoqqaat marluugaluarlutik ilaqartarput aappaa allatut ajornartumik angerlarsimaannartariaqartartoq assigiinngitsunik peqquteqarluni, taamaattoqarnerani mikisunik meeraqartoqartillugu atisassatigut malinnaaniarneq aammalumi nerisassatigut, kialuunniit takorloorsinnaavaa eqqarsarsinnaasup qanoq inuuniarnerat erloqinarsinnaatigisimassasoq, ullumikkummi suna tamarmi akitsortigisoq, malinnaaniapiloornersuaq ilungersunartartigissasoq nalunngikkaluarlugu, qaffaaginnartarneq <errorort correct="akilersinnaanngitsutut" errorinfo="typo,a,1-2">akilersinnanngitsutut</errorort> isigaara. Illuatungaani inuutissarsiorsinnaanermut ingerlatanut pikkorinnerusariaqarpugut tassuunakkummi nunatta aningaasaqarniarnera patajaannerusoq angusinnaavarput, tamanullu akissaqarsinnaaneq anguneqarsinnaalluni, assersuutigisinnaavara Royal Greenlandi. Aalisakkat akii meeraanitsinniilli qaffangaarsimanngillat akerlianiilli bonusisisarsimaneq peerneqarnikuuvoq, taarsiullugilli <errorort correct="atorfinitsitsiortornerit" errorinfo="der,ti-tsi">atorfinititsiortornerit</errorort> allaffissuarni pilersimapput oqaannarsinnaavugut assersuutigissavara direktøri suli direktørileqqillugu suleriaaseq innuttaasunut akilersinnaanngitsumik ingerlaneq taamaatittariaqarpoq, Nunanut allanut suliffissuaqarneq tamakkiisumik nuutinneqarnera nunatsinni innuttaasunut assorsuaq malunnartumik suliffissaaleqilernermik kinguneqarpoq, tamannalu iluarsineqartariaqartutut isigaara tassami nunatsinni aalisakkat pisaasartut tamarmik avammut annissornagit affaaluunniit <errorort correct="Nunatsinni" errorinfo="orto,tti-tsi">Nunattinni</errorort> suliffissuaqarnikkut piorsaanermi atorneqarsinnaasariaqarluinnartutut isigaakka, nunani allani suliaasartut tunisassiat piariikkat soorunami aamma nunatsinni suliarineqarsinnaalluarput avammut tunisassiassatut ineriikkatut, taamaalilluni suliffissaaleqineq aammalumi inuuniarnikkut nammineersinnaaneruneq innuttaasunut <errorort correct="anguneqarsinnaasariaqarpoq" errorinfo="typo,a,2-1">anguneqarsinnaasaariaqarpoq</errorort>. Nunatsinni suliffissuaqarneq piorsarluarneqartariaqalerpoq, sooq nunat eqqaamiugut suliffissuaqarnikkut imminut akilersinnaasumik ingerlasinnaasut uagut nunatsinni akilersinnaanngitsutut piinnassaagut.</p>
+  </body>
+</document>

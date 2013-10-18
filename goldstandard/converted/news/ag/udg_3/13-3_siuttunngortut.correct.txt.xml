@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Siuttunngortut</title>
+    <genre code="news"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG03_2008 13-3. Siuttunngortut. F a k t a. Hillary Clinton: Senatori naalagaaffimmi New Yorkimi qinigaq. Sivitsortumi Det Demokratiske Parti sinnerlugu USA-mi præsidentinngortussap tulliatut nukittunerpaatut inissisimasimavoq kisiannili sap. akunnerani kingullermi Iowami partiit qinigassanngortinneranni pakatsinartumik normu 3-tut inissinnermi kingorna ajornartorsiortorujussuanngorluni, New Hampshiremilu ajugaanera Clintonimut inuttut <errorort correct="angusarissaarujussuarneruvoq" errorinfo="typo,0-q">angusarissaarujussuarneruvo</errorort>. Politikerip 60-inik ukiullip præsidentiusimasoq Bill Clinton, suli nuannarineqarluarnerminik nuliami nittarsaanneqarneranut atuisoq, uigivaa. Hillary Clinton qineqqqusaarnermi »siuttutut piukkunnaatinik« kiisalu nunagisamini nunarsuarmilu »misilittakkanik« nittarsaassisimavoq. Anguniagai tassaapput USA-mi tamanut napparsimalernissamut sillimmasiissutit atuutilersinneqarnissaat, suliffissanik pilersitsinissaq, aningaasaqarnikkut ilorraap tungaanut aallartitseqqinnissaq kiisalu USA-mi pisuut piitsullu akornanni assigiinngissutit annertuut nalimmarsarneqarnissaat. USA-p Irakimi sorsunneranik piffissami sivisuallaami tapersersuisimasutut, ersernerluttunik akissuteqartartutut kiisalu unammillertiminut malunnaateqarluartumut Barack Obamamut sanilliulluni aqunneqarpallaartutut isornartorsiorneqarpoq. Naalagaaffimmut præsidentiusimasumut nuliaasutut inatsisilerituutut ilinniagaqarsimasoq tamaginni ajunngitsuni ajortunilu ilisimaarineqarpoq. Inuppassuarnit politikeritut USA-mik avissaartuutsitsisutut isumaqarfigineqarpo. John McCain: Republikanerit akornanni malunnaatilimmik immikkooruteqarpoq. Ukiorpassuarni senatoriusimasoq Arizonameersoq ungasinngitsoq tikillugu præsidentinngorniunnermi peqataajunnaarsimasutut isigineqarsimavoq, kisiannili nukittulluinnarluni uteqqissimalluni tassalu New Hampshiremi qularnaatsumik ajugaalluni. Apeqqutaalerpoq inatsisinik unioqqutitsillutik nunasisunut atatillugu mianersuussinissamik oqaaqqissaarinera Kyotomilu isumaqatigiissummi tunngavissanut ilanngunnikkut gassinik kiatsikkiartuutaasartunik aniatitsinermut piumasaqaatinik USA-p malinninnissaanik siunniussaqarnerat republikanerinut qanganisarsiuunut sualuppallaarnersoq. 71-inik ukiulik McCain Vietnamimi sorsoqataasimavoq ukiunilu tallimanit amerlanerni tigusaaqqasimalluni naalliutsitarineqartarsimallunilu. 2000-imi USA-mi præsidentinngorniaraluarpoq taamanilu New Hampshiremi qinerseqqaarnermi George W. Bushimut ajugaalluni, tulliuttunili ajorsarluni. Aningaasaqarnikkut annermik qanganisarsiuujuvoq naalagaaffiullu naatsorsuutaani Buship ajalusoortissimasaani oqimaaqatigiissumik ingerlatseqqilernissamik kissaateqarluni. Irakimi sakkutuut amerlineqarnissaannut atatillugu præsidenti tapersersorpaa, kisiannnili nunanut allanut politikkimi sakkortusaarpallaarneq mianersoqqussutigalugu Bushillu naalakkersuisuisa naalliutsitsinermik atuisarnerat sakkortuumik akerleralugu.</p>
+  </body>
+</document>

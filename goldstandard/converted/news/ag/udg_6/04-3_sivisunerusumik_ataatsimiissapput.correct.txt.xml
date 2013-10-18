@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Sivisunerusumik ataatsimiissapput</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="L" lastname="S" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG06_2008 04-3. Sivisunerusumik ataatsimiissapput. Nuuk (LS). Inatsisartut pilersaarutit naapertorlugit februaarip <errorort correct="15.-anit" errorinfo="num,ord,0-dot">15-anit</errorort> ataatsimiinnissaraluat marsip <errorort correct="4.-nut" errorinfo="num,ord,0-dot">4-anut</errorort> kinguartinneqarpoq, marsip <errorort correct="14.-nut" errorinfo="num,ord,0-dot">14-anut</errorort> ataatsimiissallutik. Inatsisartut poorskip kommuninullu qinersinerup nalaani sulinngiffeqarallassapput. Ataatsimiinnerat apriilip <errorort correct="22.-ni" errorinfo="num,ord,0-dot">22-ani</errorort> nangeqqissaaq naatsorsuutigineqarluni maajip <errorort correct="8.-ni" errorinfo="num,ord,0-dot">8-ani</errorort> naammassissasoq. Kinguartitsinermik sivitsuinermillu naalakkersuisut siulittaasuat kissaateqartuuvoq. Kissaateqarnermi Alcoamik suleqateqarnerup immikkoortuata tullia pillugu siunnersuummik suliaqarnissamik pissuteqarpoq, naalakkersuisut siulittaasuat tunngavilersuivoq. Aatsitsiviup sumiinnissaanik aamma <errorort correct="ermup" errorinfo="phon,rng-rm">erngup</errorort> nukinganit nukissiorfinnik piginnittuunerup kiisalu aluminiliorfimmut namminermut tunngaviusumik aalajangiisoqarnissaanik siunnersuut imaqarpoq, Hans Enoksen oqarpoq.</p>
+  </body>
+</document>

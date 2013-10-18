@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Inunnik isiginnittarneq eqqartuussinerusoq immikkoortitsinerusorlu</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Maja" lastname="Chemnitz Frederiksen" sex="f" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG20_2008 14-1. Inunnik isiginnittarneq eqqartuussinerusoq immikkoortitsinerusorlu. Allattoq: Maja Chemnitz Frederiksen. Peqqinnissaqarfimmik atuinermi akiliisalernissamik naalakkersuisut siulittaasuata radiukkut tvikkullu oqaaseqaataa ernumanarpoq navianarlunilu. Ukiut arlallit matuma siorna taamani peqqinnissamut naalakkersuisoq Edvard Geisler tamatuma assinganik siunnersuuteqarpoq siunnersuullu taama eqqarsaatigineqarpasinngitsigisoq 2008-mi saqqummiuteqqinneqarmat naleqqutinngilluinnarpoq. Siunnersuut aningaasatigut immaqa iluaqutaasinnaavoq, soorlu qiiatilluni iloqqutsinertut ittoq, siunissarli ungasinneq eqqarsaatigalugu inuiaqatigiinnut inummullu ataasiakkaamut ajunaarnersuarmik nassataqassaaq. Taamatut aaqqissuussinermi nakkarfissat navianartorpassuupput, soorlu tamanna Asii C. Narupimit eqqaaneqareersimasoq. Nammineq pisuuneq kia nalilissavaa? Nakorsat, isumaginninnermi siunnersortit, politikerit? Tamatumani peqqinnissaq, aningaasaqarneq imaluunniit inuttut naliliineq tunngaviussappat? Assigiinngissutit qanoq annertutigissanersut eqqarsaatigineqarluarsinnaavoq. Kikkut »eqqortumik« napparsimanersut kia nalilissavaa, naalakkersuisut siulittaasuata oqarneratut? »Nammineq pisuussutimik« nappaateqalersoq akissaqanngippat pisoq qanoq isumaginiarneqassava? Naartuersittartut amerlavallaarnerat naammaginanngimmat ilumoorpoq, atuisartulli akiliisalernerisigut ajornartorsiut aaqqinneqarnavianngilaq. Aningaasanik amigaateqarluni naartuersissinnaanngikkaanni meeraq kissaatigineqarani inunngortoq qanoq atugaqassanersoq eqqarsaatigiuminaappoq. Ilaqutariinni aningaasakilliortuni meeraq kissaatigineqanngitsoq pillugu ajornartorsiutit sunniutissaat inuiaqatigiinnut ajorluinnartunik kinguneqarsinnaapput, aningaasatigut inuttullu. Akiliisinnaasunut ajornartorsiut pilernavianngilaq atugarliornerpaallu annerpaamik akiliisariaqalissapput, inuiaqatigiinnilu equngassutsit suli annerusut pilissapput. Asii C. Narupip oqarneratut tamatta peqqinnissaqarfimmit sullinneqartussaavugut, assigiimmik pineqartussaalluta. Eqqartuussinikkut pillaanikkullu inuiaqatigiit akisussaanermik ilinniartinneqarsinnaanngillat. Taamatut siunnersuuteqarnikkut inunnik isiginnittarneq eqqartuussinerusoq immikkoortitsinerusorlu tunngaviusoq inuiaqatigiinni atulersinneqanngisaannarli.</p>
+  </body>
+</document>

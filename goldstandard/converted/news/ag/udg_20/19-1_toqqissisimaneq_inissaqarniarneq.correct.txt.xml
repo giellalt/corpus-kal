@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Toqqissisimaneq inissaqarniarneq</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Erik H. K." lastname="Heilmann" sex="m" born="" nationality=""/>
+    </author>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <publChannel>
+      <publication>
+        <publisher>AG</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!AG20_2008 19-1. Toqqissisimaneq inissaqarniarneq. Allattoq: Erik H. K. Heilmann. Nuuk Kommuunerujussuarmi innuttaasut tamarmik neqeroorfigineqassapput inissamik tamanut attartortittakkamik initaarsinnaanissaannut ukiut 28-it utaqqeqqaaratik. Taamaasilluta innuttaaqatigut tamaasa periarfississavavut akissarsiat tunngaviginagit akilersinnaasaannik inissaqarnissaannut. Nunatsinni Naatsorsueqqissaartarfiup saqqummiussaa tunngavigalugu qimerluuigutta takusinnaavarput kommuunerujussuassami tunu/kitaani inissiat amerlassusiat ima isikkoqartoq, 2003-mi 7.600 missaat aammalu 2006-imi 7.900 missaat, inissiat amerlissutaat pisimapput Ammassalimmi aamma Nuummi, taamaasilluni Paamiuni aammalu Ittoqqortoormiini nutaanik sanasoqarsimanani. Naatsorsueqqissaartarfiup paasissutissaataatigut Ivittuunut atatillugu paasissutissanik pissarsisinnaasimanngilanga. Apeqquteqaateqarnima kingorna 24. septembari 2007 kommunalbestyrelsimi ataatsimiinnermi akissutisivunga, Nuummi inissiat 2.000 missaat amigaatigineqartut, innuttaasut 25-ileereersimasut tamaasa inissaqartissagutsigit, tamatumunngalu tapiliullugu nalunaarutigineqarpoq inissat 2.500 missat pisariaqartikkigut, innuttaasut 20-ileereersimasut tamaasa inissaqartissagutsigit. Nuup Kommuniani aningaasanut naatsorsuummi 2007 aamma 2008 tunngavigalugu takuneqarsinnaavoq inissiat 200-t sanaartorniaraat, taakkulu siulliit sananeqartussat 48-ut sanaartorneqalerlutik Akunnerni. Inissialli pisariaqartinneqartut amerlassusaat qimerloorutsigit takusinnaavarput naammanngerujussuartut. Ukiumiit ukiumut sanaartorneqartartut amerlanerujussuusariaqarput, utaqqisunut allatsissimasut amerlisinnaveersaartiinnassagaanni. Tamanna tunngaveqarpoq Nunatsinni Naatsorsueqqissaartarfiup missingersuutaani ukiumut 200 missaannik inuttunerulertarsinnaanissaa missingerneqarnikuummat, piviusorli tunngavigigaanni 300 missaat tunngavigissallugu eqqortuunerugunarpoq. Nalunngilara soqutigisama iluanniittut ajornartorsiutit amerlasuut aammalu annertuut ullormiit ullormut iluarsineqarsinnaanngitsut, uangali upperaara kommunalbestyrelsimi ataatsimik ilaasortaqarpat, ullormiit ullormut, qaammammiit qaammammut pingaartitsilluni tulleriissaaraluni sulisumik, taava suliniutikka iluatsissaqqaarput, taamaasillungalu allanngueqataallunga.</p>
+  </body>
+</document>

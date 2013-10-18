@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Mia isaatitsivoq</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Noah" lastname="Mølgaard" sex="m" born="" nationality=""/>
+    </author>
+    <year>2013</year>
+    <place>Nuuk</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://sermitsiaq.ag/kl/node/148863</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>Mia isaatitsivoq Kalaaleq assammik arsartartoq Mia Egede Rasmussen saameqarpoq ulorianavissumik</p>
+    <p>Tamanna takuteqqippaa sapaatip akunnerata naanerani 2. divisionimi  Vejle unammigamikku.</p>
+    <p>Tallimanngornermi unnukkut unamminermi Silkeborg-Voel KFUM Vejlemut ajugaavoq. Unammineq naligiiffioqaaq tassanilu Silkeborg-Voel KFUM 28-25-mik ajugaavoq. Taakku kalaalersaraat Mia Egede Rasmussen aamma Kathrine Mikkelsen.</p>
+    <p>Pingaartumik Mia Egede Rasmussen iligiinnut pingaaruteqarluarpoq arfineq pingasoriarluni isertitsigami Katrine Mikkelsen ataatsimik isertitsisoq.</p>
+    <p>Silkeborg-Voel KFUM arfininngorneq martsip qulingiluaat unammeqqissaaq tamatumuuna Viby IF unammissallugu.</p>
+  </body>
+</document>

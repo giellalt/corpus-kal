@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="kal" id="no_id">
+  <header>
+    <title>Kalaalinngorsaaneq uumissuisumik oqallinneq</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Irene" lastname="Jeppson" sex="f" born="" nationality=""/>
+    </author>
+    <translator>
+      <person firstname="Nuka" lastname="Jørgensen" sex="unknown" born="" nationality=""/>
+    </translator>
+    <translated_from xml:lang="dan"/>
+    <year>2008</year>
+    <place>Nuuk</place>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <submitter name="Elin Neshamar" email="elne@nanoq.gl"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>!Sermitsiaq02_2008 17-1. Kalaalinngorsaaneq uumissuisumik oqallinneq. Oqallinneq allamut sangusoorpoq, Qasigiannguit borgmesteriat Jess Svane (Siumut) oqarpoq. All.: Irene Jeppson Nutserisoq: Nuka Jørgensen. Kalaalinngorsaanermik oqallinneq kingulleq nuanninngitsorujussuuvoq, Qasigiannguit borgmesteriat Jess Svane oqarpoq. Oqallinneq akaarinninngilaq <errorort correct="piumasaarsornerullunilu" errorinfo="typo,i-0">piumasaarsiornerullunilu</errorort>, taanna oqarpoq. Jess Svane isumaqarpoq oqallinneq allamut sangusoorsimasoq. Amerlaqisut oqallinneq paatsoorsimavaat. Maanna oqartoqarpoq kalaallit piumasarigaat qallunaat angerlassasut. Taamaattoqanngilarli. Maanna oqallinneq uumissuisumik ingerlanneqarpoq innuttaasullu akornanni avissaartuutsitseqataalluni. Eqqarsaat ajorsimanngikkaluarpoq. Kalaalinngorsaanissaq pisariaqarpoq. Nunami maani ataasiinnarmik oqaasilippassuaqarpoq Namminersornerullutik Oqartussani isummaminnik saqqummiussiuminaatsitsisunik. Amerlaqisut pakatsillutik angerlartarput nalunaarutiginiakkatik paasineqanngikkaangata. Nuummi inuppassuaqarpoq kalaalinngorsaanermut akerliusunik, kisiannili Qasigiannguaniit Nuummut ungaseqaaq. Kalaalinngorsaanissaq pisariaqarpoq, borgmesteri isumaqarpoq. Inuppassuit Kalaallit Nunaannik ilisimanninngitsut oqallinneq paatsoorluinnarsinnaavaat avataanit tusarnaarutikkut, taamaattumik pisariaqarpoq nuna pillugu paasisitsiniaanissaq aammalu ataasiinnarmik oqaasilinnik kalaalerpassuaqarneranik paasisitsiniaasoqarnissaa. Ukiuni 100-ni inooqatigiippugut. Qallunaat ukiuni untritilinni inooqatigisimavagut. Ilaqutaraavut ungagalugillu. Uanga nammineq affarmik qallunaanik qatannguteqarpunga. Qallunaanillu ikinnguteqarlunga. Kommunaldirektøria qallunaajuvoq tamannalu ajornartorsiutiginngisaannarsimavarput. Maannali oqallinnikkut innuttaasut akornanni avissaartuutsitsiniartoqarpoq. Kalaalerpassuaqarpoq qallunaatut oqalussinnaanngitsunik, qallunaarpassuaqarlunilu kalaallisut oqalussinnaanngitsunik. Taamatut ajortigisumik oqallinnata pissutsit ilorraap tungaanut sangutinniartariaqarpavut. Oqaatsit ilinniarnissaannut periarfissanik pitsaanerusunik pilersitsissaagut, sapinngisamik amerlanerpaat malinnaasinnaaqqullugit. Naalagaaffeqatigiinnerup iluani piumasarineqarpoq inuit avataaneersut qallunaatut oqalussasut inuiaqatigiinnut <errorort correct="qallunaanut" errorinfo="typo,a-0">qalluanaanut</errorort> akulerukkusukkunik. Uagut taamatut piumasaqaannaratta nipiliortoqalerpoq. Sooq kalaalinngorsaaneq ajunngitsutut isiginianngilarput taamatut isorinninniaannarata, Jess Svane oqarpoq.</p>
+  </body>
+</document>
